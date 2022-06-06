@@ -1,0 +1,64 @@
+landing page		
+	1.index.html
+	2.index.htm 
+	3.default.html
+	4.default.htm 
+
+--------------------------------------
+hotel19degree.com  -- domain ( 500 rs per year)
+buy hosting space  -- buy hosting space  -- AWS  -- pay
+
+build website --
+
+XML, HTML
+<HTML>
+	</p>
+</html>
+	<p>
+
+W3.org  
+
+HTML  -- > *.html
+CSS --> *.css
+JS   --> *.js  ECMA Script  ES2022  ES2021   ES6
+
+XML   -- eXtensibl Markup Language (XML)
+
+
+
+
+<img sr="htps://dsdsdsdsdsdsdsds/dsdsdsdsds/ddssd">
+
+</img>
+
+employees.xml  - appy rules on xml file using .xsd file (earlier .dtd)
+<employee>
+	<eid>100</eid>
+	<name>GD</name>
+	<mobileNumber>9765432123</mobileNumber>
+</employee>
+
+
+
+XHTML   --> .xhtml
+
+
+----------------------------------
+http://xxx.xxx.xxx.xxx:xxxxx/	
+
+
+IPV4  xxx.xxx.xxx.xxx  0....256
+IPv6
+
+
+
+
+
+
+
+
+
+
+
+
+
