@@ -1,0 +1,46 @@
+XYZ -- Insurance company (CEO) 2020  --Announcement 
+Theme1  -- add corona virus
+Theme2  -- decreasee premium amount 
+
+Theme1 --> Epics
+
+Epic1:  Symptoms (Departmen/Account/---> My Delivery Manager) 
+Epic2:  Admission in Hospital
+Epic3:  Treatment
+Epic4:  Discharge
+
+
+Theme1 --> Epic1 --> (Multiple teams---> My Team Lead)
+UserStory1: Early Symptoms  (Must be given Story Point: 1,2,3,5,8....)
+UserStory2: Moderate Sympptoms (Must be given Story Point: 1,2,3,5,8....)
+UserStory3: High Symptoms (Must be given Story Point: 1,2,3,5,8....)
+
+
+Theme1 --> Epic1 --> UserStory3 --> Tasks
+Task1: What is Pulse Rate?
+Task2: What is Oxygen level in body?
+Task3: Is ICU Needed?
+
+
+Theme1 --> Epic1 --> UserStory3 --> Task3
+SubTask1: Find age & gender of patient from DB --> found 2 hours
+SubTask2: Any pre-existing deases or past complications DB ---> 10 hours
+SubTask3: Find the current oxygen level from hospital RESTful API--> found 4 hours
+SubTask4: Find the approximate oxygen needed per hour or per day ---> 8 hours
+
+Theme1 --> Epic1 --> Feature 1 --> (SubTask1 + SubTask2)
+Feature1: 
+	Calcaulte Eligible amount of hospitalization for the patient
+	SMS send to the policy holder
+
+
+
+
+Initiaitive1:
+Another Department Delivery Manager --- Corporate Employee Cash Less Claim
+How much money I need to pay to hospital for custmer/patient expenses?
+I want to know the corona virus symptoms and the premium paid by cutomer
+He need to match the bill amonunt and then pay to hospital..
+
+
+
